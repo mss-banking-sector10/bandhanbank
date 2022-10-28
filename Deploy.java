@@ -1,6 +1,6 @@
-this the deploy script
-<<<<<<< HEAD
-we updated 
+this the deploy scpirt
+we updated
 hello added this line 
-=======
->>>>>>> parent of 18e27b5 (updated)
+(updated)
+im updating in dev branch 
+
